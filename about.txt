@@ -1,1 +1,2 @@
 I am practicing git commands
+ Practicing git add, push, status and log. 
